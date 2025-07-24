@@ -28,6 +28,17 @@
   color: #61dafb;
 }
 
+.card-item {
+  width: 150px;
+  height: 150px;
+  border: none;
+  border-radius: 1rem;
+  padding: 2rem; /*Reducedpaddingfrom4remto2rem*/
+  margin: auto; /*Centerscardinsideitsgridcell*/
+}
+
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
